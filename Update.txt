@@ -1,4 +1,2 @@
 <Version: 1.04>
-/data/Enemies.json https://raw.githubusercontent.com/nguyenbamanh02/updateTDHS/master/Enemies.json
-/data/Animations.json https://raw.githubusercontent.com/nguyenbamanh02/updateTDHS/master/Animations.json
 <End of Version>
